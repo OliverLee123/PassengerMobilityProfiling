@@ -1,5 +1,5 @@
-apriori.py：Apriori algorithm to extract personal motif
-config.py：set dnn parameters
+apriori.py：Apriori algorithm to extract personal motif  
+config.py：set dnn parameters  
 em_test.py：experiment train
 em_train.py：experiment test
 main.py：main
